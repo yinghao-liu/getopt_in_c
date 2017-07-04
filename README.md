@@ -1,2 +1,3 @@
 # getopt_in_c
-c 语言的getopt
+
+This is the example in man page of getopt
